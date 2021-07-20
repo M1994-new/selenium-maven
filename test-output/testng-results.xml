@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="11" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="90581" started-at="2021-06-15T10:44:59 IST" finished-at="2021-06-15T10:46:30 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="90581" started-at="2021-06-15T10:44:59 IST" finished-at="2021-06-15T10:46:30 IST">
+      <class name="casestudy1Tests.DatePicker">
+        <test-method status="PASS" signature="browLaunch()[pri:0, instance:casestudy1Tests.DatePicker@3ecd23d9]" name="browLaunch" is-config="true" duration-ms="5789" started-at="2021-06-15T10:46:23 IST" finished-at="2021-06-15T10:46:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browLaunch -->
+        <test-method status="PASS" signature="DatePickerMethod()[pri:0, instance:casestudy1Tests.DatePicker@3ecd23d9]" name="DatePickerMethod" duration-ms="419" started-at="2021-06-15T10:46:28 IST" finished-at="2021-06-15T10:46:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DatePickerMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:casestudy1Tests.DatePicker@3ecd23d9]" name="tearDown" is-config="true" duration-ms="795" started-at="2021-06-15T10:46:29 IST" finished-at="2021-06-15T10:46:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- casestudy1Tests.DatePicker -->
+      <class name="casestudy1Tests.SwitchToAlert">
+        <test-method status="PASS" signature="browLaunch()[pri:0, instance:casestudy1Tests.SwitchToAlert@192d3247]" name="browLaunch" is-config="true" duration-ms="4937" started-at="2021-06-15T10:46:04 IST" finished-at="2021-06-15T10:46:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browLaunch -->
+        <test-method status="PASS" signature="allAlertsSwitch()[pri:0, instance:casestudy1Tests.SwitchToAlert@192d3247]" name="allAlertsSwitch" duration-ms="12666" started-at="2021-06-15T10:46:09 IST" finished-at="2021-06-15T10:46:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allAlertsSwitch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:casestudy1Tests.SwitchToAlert@192d3247]" name="tearDown" is-config="true" duration-ms="767" started-at="2021-06-15T10:46:22 IST" finished-at="2021-06-15T10:46:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- casestudy1Tests.SwitchToAlert -->
+      <class name="casestudy1Tests.Selectable">
+        <test-method status="PASS" signature="browLaunch()[pri:0, instance:casestudy1Tests.Selectable@42eca56e]" name="browLaunch" is-config="true" duration-ms="5283" started-at="2021-06-15T10:45:15 IST" finished-at="2021-06-15T10:45:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browLaunch -->
+        <test-method status="PASS" signature="SelectableMethod()[pri:0, instance:casestudy1Tests.Selectable@42eca56e]" name="SelectableMethod" duration-ms="3698" started-at="2021-06-15T10:45:20 IST" finished-at="2021-06-15T10:45:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectableMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:casestudy1Tests.Selectable@42eca56e]" name="tearDown" is-config="true" duration-ms="801" started-at="2021-06-15T10:45:23 IST" finished-at="2021-06-15T10:45:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- casestudy1Tests.Selectable -->
+      <class name="casestudy1Tests.RegisterAutomation">
+        <test-method status="PASS" signature="logsReport()[pri:0, instance:casestudy1Tests.RegisterAutomation@66d1af89]" name="logsReport" is-config="true" duration-ms="80" started-at="2021-06-15T10:44:59 IST" finished-at="2021-06-15T10:44:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logsReport -->
+        <test-method status="PASS" signature="browLaunch()[pri:0, instance:casestudy1Tests.RegisterAutomation@66d1af89]" name="browLaunch" is-config="true" duration-ms="6995" started-at="2021-06-15T10:44:59 IST" finished-at="2021-06-15T10:45:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browLaunch -->
+        <test-method status="PASS" signature="registerUser()[pri:0, instance:casestudy1Tests.RegisterAutomation@66d1af89]" name="registerUser" duration-ms="7098" started-at="2021-06-15T10:45:06 IST" finished-at="2021-06-15T10:45:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:casestudy1Tests.RegisterAutomation@66d1af89]" name="tearDown" is-config="true" duration-ms="1216" started-at="2021-06-15T10:45:13 IST" finished-at="2021-06-15T10:45:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- casestudy1Tests.RegisterAutomation -->
+      <class name="casestudy1Tests.SwitchFrames">
+        <test-method status="PASS" signature="browLaunch()[pri:0, instance:casestudy1Tests.SwitchFrames@7cbd213e]" name="browLaunch" is-config="true" duration-ms="5870" started-at="2021-06-15T10:45:51 IST" finished-at="2021-06-15T10:45:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browLaunch -->
+        <test-method status="PASS" signature="Frame()[pri:0, instance:casestudy1Tests.SwitchFrames@7cbd213e]" name="Frame" duration-ms="6531" started-at="2021-06-15T10:45:57 IST" finished-at="2021-06-15T10:46:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Frame -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:casestudy1Tests.SwitchFrames@7cbd213e]" name="tearDown" is-config="true" duration-ms="772" started-at="2021-06-15T10:46:03 IST" finished-at="2021-06-15T10:46:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- casestudy1Tests.SwitchFrames -->
+      <class name="casestudy1Tests.WindowsSwitch">
+        <test-method status="PASS" signature="browLaunch()[pri:0, instance:casestudy1Tests.WindowsSwitch@52f759d7]" name="browLaunch" is-config="true" duration-ms="6593" started-at="2021-06-15T10:45:24 IST" finished-at="2021-06-15T10:45:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browLaunch -->
+        <test-method status="PASS" signature="simpleWindowswitch()[pri:0, instance:casestudy1Tests.WindowsSwitch@52f759d7]" name="simpleWindowswitch" duration-ms="19363" started-at="2021-06-15T10:45:31 IST" finished-at="2021-06-15T10:45:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleWindowswitch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:casestudy1Tests.WindowsSwitch@52f759d7]" name="tearDown" is-config="true" duration-ms="819" started-at="2021-06-15T10:45:50 IST" finished-at="2021-06-15T10:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- casestudy1Tests.WindowsSwitch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

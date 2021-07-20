@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <classes>             
+      
+      <class name="casestudy1Tests.RegisterAutomation"/>
+      <class name="casestudy1Tests.Selectable"/>
+      <class name="casestudy1Tests.WindowsSwitch"/>
+      <class name="casestudy1Tests.SwitchFrames"/>
+      <class name="casestudy1Tests.SwitchToAlert"/>
+      <class name="casestudy1Tests.DatePicker"/>
+    </classes>
+  
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,49 @@
+2021-06-15 10:45:06,641  INFO [main] RegisterAutomation:33 - Application started
+ 2021-06-15 10:45:10,708  INFO [main] RegisterAutomation:56 - Form is filled
+ 2021-06-15 10:45:13,826 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-06-15 10:45:13,828 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-06-15 10:45:13,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-06-15 10:45:13,836 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-06-15 10:45:13,837 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/bosem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-06-15 10:45:14,996  INFO [main] RegisterAutomation:44 - Application closed
+ 2021-06-15 10:45:20,282  INFO [main] Selectable:33 - Application launched
+ 2021-06-15 10:45:20,930  INFO [main] Selectable:53 - Options are selected
+ 2021-06-15 10:45:23,985 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-06-15 10:45:23,986 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-06-15 10:45:23,988 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-06-15 10:45:23,988 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-06-15 10:45:23,989 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/bosem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-06-15 10:45:24,784  INFO [main] Selectable:42 - Application is closed
+ 2021-06-15 10:45:31,377  INFO [main] WindowsSwitch:34 - Application launched
+ 2021-06-15 10:45:48,729  INFO [main] WindowsSwitch:55 - Windows are swicthed successfully
+ 2021-06-15 10:45:50,745 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-06-15 10:45:50,747 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-06-15 10:45:50,748 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-06-15 10:45:50,750 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-06-15 10:45:50,750 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/bosem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-06-15 10:45:51,561  INFO [main] WindowsSwitch:43 - Application closed
+ 2021-06-15 10:45:57,434  INFO [main] SwitchFrames:34 - Application started
+ 2021-06-15 10:46:00,914  INFO [main] SwitchFrames:55 - Frames are switched and selected
+ 2021-06-15 10:46:03,969 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-06-15 10:46:03,969 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-06-15 10:46:03,970 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-06-15 10:46:03,971 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-06-15 10:46:03,971 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/bosem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-06-15 10:46:04,739  INFO [main] SwitchFrames:44 - Application is closed
+ 2021-06-15 10:46:09,675  INFO [main] SwitchToAlert:35 - Application started
+ 2021-06-15 10:46:19,272  INFO [main] SwitchToAlert:59 - Switching to Alerts successfully
+ 2021-06-15 10:46:22,345 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-06-15 10:46:22,346 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-06-15 10:46:22,347 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-06-15 10:46:22,348 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-06-15 10:46:22,348 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/bosem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-06-15 10:46:23,111  INFO [main] SwitchToAlert:47 - Application closed
+ 2021-06-15 10:46:28,901  INFO [main] DatePicker:35 - Application started
+ 2021-06-15 10:46:29,320  INFO [main] DatePicker:56 - DatePicker is selected and date is inserted
+ 2021-06-15 10:46:29,324 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-06-15 10:46:29,325 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-06-15 10:46:29,326 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-06-15 10:46:29,327 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-06-15 10:46:29,328 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/bosem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-06-15 10:46:30,117  INFO [main] DatePicker:44 - Application closed
+ 
